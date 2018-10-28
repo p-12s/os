@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "*.rh": "c"
+        "*.rh": "c",
+        "process.h": "c",
+        "windows.h": "c"
     }
 }
