@@ -87,6 +87,9 @@ unsigned int __stdcall thread3(void* data)
 
 int main(int argc, char* argv[])
 {
+    // надо в 3 псиателя и 1 читателя работаь со счетчиком
+
+    
 	HANDLE myhandle[2];
 	abFlags[0] = TRUE;
 	abFlags[1] = TRUE;
